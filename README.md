@@ -1,8 +1,8 @@
-# Farmer's Market Need
+# Farmers' Market Need
 ## Project Goals
 For this project, our team mapped the best places for Farmer's Markets in Denver. We defined best places for Farmer's Markets as places with the highest address density that are not currently zoned for Farmer's Markets.
 
-## Why Farmer's Markets
+## Why Farmers' Markets
 Farmer's Markets encourage sustainable farming practices, provide an affordable way to access locally grown produce, support local economies, and combat food deserts.  
 
 ## Community Use Case
@@ -13,10 +13,10 @@ Farmer's Markets encourage sustainable farming practices, provide an affordable 
 
 
 ## Heat Maps
-### Heatmap of High Population Density Areas Not Zoned for Farmer's Markets
+### Heatmap of High Population Density Areas Not Zoned for Farmers' Markets
 ![](images/unzoned.png)
 
-### Heatmap of High Population Density Areas Zoned for Farmer's Markets
+### Heatmap of High Population Density Areas Zoned for Farmers' Markets
 ![](images/zoned.png)
 
 
@@ -29,15 +29,15 @@ We're a team of recent Galvanize Data Science Immersive graduates. Please hire u
 - Whitney Meer ([LinkedIn](https://www.linkedin.com/in/whitneypmeer/))<br>
 
 ## Data
-We used two Denver Open Data data sources, [Zoning for Farmer's Markets](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-zoning-for-farmers-markets) and [Addresses](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-addresses).
+We used two Denver Open Data data sources, [Zoning for Farmers' Markets](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-zoning-for-farmers-markets) and [Addresses](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-addresses).
 
 
 ## Steps
 - Aggregate address level data by latitude and longitude as a proxy for population density. Sort latitude and longitude by population density.
 
-- Use the zoning data to determine if the latitude and longitude is zoned for Farmer's Market use.
+- Use the zoning data to determine if the latitude and longitude is zoned for Farmers' Market use.
 
-- Make a heat map of the addresses that are and are not zoned for farmer's market use.
+- Make a heat map of the addresses that are and are not zoned for farmers' market use.
 
 
 ## Future Work
