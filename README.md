@@ -21,7 +21,9 @@ Farmer's Markets encourage sustainable farming practices, provide an affordable 
 
 
 ## Team
-<img width="200" length="200" src="images/g_squared.png")
+<p align="center">
+  <img width="200" height="200" src="images/g_squared.png">
+</p>
 
 We're a team of recent Galvanize Data Science Immersive graduates. Please hire us.
 
