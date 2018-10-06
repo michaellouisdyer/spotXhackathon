@@ -21,10 +21,6 @@ Farmer's Markets encourage sustainable farming practices, provide an affordable 
 
 
 ## Team
-<p align="center">
-  <img src="images/g_squared_2.png">
-</p>
-
 We're a team of recent Galvanize Data Science Immersive graduates. Please hire us.
 
 - Michael Dyer ([LinkedIn](https://www.linkedin.com/in/michaellouisdyer/))<br>
