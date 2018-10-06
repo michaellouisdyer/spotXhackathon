@@ -1,0 +1,345 @@
+0,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+1,"      ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+1200        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+     ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS  \
+1200       None       D-TD  Commercial Mixed Use       UO-1    None   
+
+     CONDITIONS PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE  \
+1200       None    None       None      360      2011  None  None     None   
+
+     PUD_DOCUME                                           geometry  
+1200       None  POLYGON ((-104.9972260658696 39.74720360694045...  "
+2,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+3,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+4,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+5,"      ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+1200        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+     ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS  \
+1200       None       D-TD  Commercial Mixed Use       UO-1    None   
+
+     CONDITIONS PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE  \
+1200       None    None       None      360      2011  None  None     None   
+
+     PUD_DOCUME                                           geometry  
+1200       None  POLYGON ((-104.9972260658696 39.74720360694045...  "
+6,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+7,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+8,"     ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+780        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+    ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+780    C-MX-12  Commercial Mixed Use       None    None       None    None   
+
+    PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+780       None      333      2010  None  None     None       None   
+
+                                              geometry  
+780  POLYGON ((-104.995843126842 39.7625626437773, ...  "
+9,"     ZCODE_VERS                   ZONE_DESCR    NBHD_CONTE ZONE_DISTR  \
+814        2010  Residential Mixed Use  (RX)  URBAN CENTER       C-RX   
+
+    ZONE_USE_F ZONE_DIS_1   ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+814         RX    C-RX-12  Residential       None    None       None    None   
+
+    PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+814       None      333      2010  None  None     None       None   
+
+                                              geometry  
+814  POLYGON ((-105.0031260633187 39.76013438894955...  "
+10,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+11,"     ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+140        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+    ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+140    C-MX-12  Commercial Mixed Use       UO-1    None       None    None   
+
+    PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+140       None      507      2016  None  None     None       None   
+
+                                              geometry  
+140  POLYGON ((-104.9874307422593 39.69663430709875...  "
+12,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1123        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1123    C-MX-12  Commercial Mixed Use       DO-1    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG                   NOTES GIS_NOTE  \
+1123       None      333      2010  None  Design Review District     None   
+
+     PUD_DOCUME                                           geometry  
+1123       None  POLYGON ((-104.9835877542883 39.74364848301599...  "
+13,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1123        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1123    C-MX-12  Commercial Mixed Use       DO-1    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG                   NOTES GIS_NOTE  \
+1123       None      333      2010  None  Design Review District     None   
+
+     PUD_DOCUME                                           geometry  
+1123       None  POLYGON ((-104.9835877542883 39.74364848301599...  "
+14,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+15,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+16,"     ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+654        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+    ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+654     C-MX-5  Commercial Mixed Use       UO-2    None       None    None   
+
+    PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+654       None      333      2010  None  None     None       None   
+
+                                              geometry  
+654  POLYGON ((-104.9877731775042 39.75667987139087...  "
+17,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+18,"     ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+557        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+    ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS  \
+557       None       D-GT  Commercial Mixed Use       None    None       None   
+
+    PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+557    None       None      333      2010  None  None     None       None   
+
+                                              geometry  
+557  POLYGON ((-104.9971437745704 39.74016649635746...  "
+19,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+20,"     ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+839        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+    ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+839    C-MX-12  Commercial Mixed Use       None    None       None    None   
+
+    PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+839       None      333      2010  None  None     None       None   
+
+                                              geometry  
+839  POLYGON ((-104.9965461103976 39.7596238990937,...  "
+21,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+22,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1042        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_  OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1042    C-MX-12  Commercial Mixed Use  UO-1, UO-2    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1042       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1042  POLYGON ((-104.9964722831293 39.73686266534656...  "
+23,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+24,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1208        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1208    C-MX-20  Commercial Mixed Use       UO-1    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1208       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1208  POLYGON ((-104.9373595232283 39.68184250032402...  "
+25,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+26,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+27,"     ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+982        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+    ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS  \
+982       None       D-LD  Commercial Mixed Use       UO-1    None       None   
+
+    PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+982    None       None      333      2010  None  None     None       None   
+
+                                              geometry  
+982  POLYGON ((-104.9942723761316 39.75433539086765...  "
+28,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+29,"     ZCODE_VERS                          ZONE_DESCR      NBHD_CONTE  \
+681        2010  Campus  (EI, EI2, ENT, H, H2, NWC)  SPECIAL CAMPUS   
+
+    ZONE_DISTR ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS  \
+681        CMP       None     CMP-EI  Commercial Mixed Use       UO-3    None   
+
+    CONDITIONS PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE  \
+681       None    None       None      333      2010  None  None     None   
+
+    PUD_DOCUME                                           geometry  
+681       None  POLYGON ((-104.9635041002754 39.67180772484318...  "
+30,"     ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+399        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+    ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS  \
+399       None        D-C  Commercial Mixed Use       UO-1    None       None   
+
+    PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+399    None       None      333      2010  None  None     None       None   
+
+                                              geometry  
+399  POLYGON ((-104.9873838180887 39.74085279085244...  "
+31,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1042        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_  OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1042    C-MX-12  Commercial Mixed Use  UO-1, UO-2    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1042       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1042  POLYGON ((-104.9964722831293 39.73686266534656...  "
+32,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+33,"     ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+557        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+    ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS  \
+557       None       D-GT  Commercial Mixed Use       None    None       None   
+
+    PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+557    None       None      333      2010  None  None     None       None   
+
+                                              geometry  
+557  POLYGON ((-104.9971437745704 39.74016649635746...  "
+34,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+35,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+36,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+37,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1042        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_  OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1042    C-MX-12  Commercial Mixed Use  UO-1, UO-2    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1042       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1042  POLYGON ((-104.9964722831293 39.73686266534656...  "
+38,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+39,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+40,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1123        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1123    C-MX-12  Commercial Mixed Use       DO-1    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG                   NOTES GIS_NOTE  \
+1123       None      333      2010  None  Design Review District     None   
+
+     PUD_DOCUME                                           geometry  
+1123       None  POLYGON ((-104.9835877542883 39.74364848301599...  "
+41,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1157        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1157    C-MX-12  Commercial Mixed Use       None    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1157       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1157  POLYGON ((-105.0156711049254 39.75469943619112...  "
+42,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1153        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1153     C-MX-5  Commercial Mixed Use       DO-5    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES  \
+1153       None      858      2014  None  None   
+
+                                               GIS_NOTE PUD_DOCUME  \
+1153  Passed 2/2/2015 Filed under series 2014 (to DO-5)       None   
+
+                                               geometry  
+1153  POLYGON ((-105.0416727044527 39.74285605013517...  "
+43,"      ZCODE_VERS              ZONE_DESCR    NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1191        2010  Mixed Use  (MX, M-GMX)  URBAN CENTER       C-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1191    C-MX-12  Commercial Mixed Use       None    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1191       None      118      2014  None  None     None       None   
+
+                                               geometry  
+1191  POLYGON ((-104.9431846314051 39.71040286315355...  "
+44,"      ZCODE_VERS              ZONE_DESCR NBHD_CONTE ZONE_DISTR ZONE_USE_F  \
+1036        2010  Mixed Use  (MX, M-GMX)   SUBURBAN       S-MX         MX   
+
+     ZONE_DIS_1            ZONE_DIST_  OVERLAY_DI WAIVERS CONDITIONS PUD_NUM  \
+1036     S-MX-5  Commercial Mixed Use  UO-1, UO-2    None       None    None   
+
+     PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+1036       None      333      2010  None  None     None       None   
+
+                                               geometry  
+1036  POLYGON ((-104.915356052236 39.65504571890591,...  "
+45,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+46,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+47,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+48,"Empty GeoDataFrame
+Columns: [ZCODE_VERS, ZONE_DESCR, NBHD_CONTE, ZONE_DISTR, ZONE_USE_F, ZONE_DIS_1, ZONE_DIST_, OVERLAY_DI, WAIVERS, CONDITIONS, PUD_NUM, PUD_STD_ZO, ORD_NUM, ORD_YEAR, PBG, NOTES, GIS_NOTE, PUD_DOCUME, geometry]
+Index: []"
+49,"     ZCODE_VERS                     ZONE_DESCR NBHD_CONTE ZONE_DISTR  \
+399        2010  Downtown  (AS, C, GT, LD, TD)   DOWNTOWN          D   
+
+    ZONE_USE_F ZONE_DIS_1            ZONE_DIST_ OVERLAY_DI WAIVERS CONDITIONS  \
+399       None        D-C  Commercial Mixed Use       UO-1    None       None   
+
+    PUD_NUM PUD_STD_ZO  ORD_NUM  ORD_YEAR   PBG NOTES GIS_NOTE PUD_DOCUME  \
+399    None       None      333      2010  None  None     None       None   
+
+                                              geometry  
+399  POLYGON ((-104.9873838180887 39.74085279085244...  "
